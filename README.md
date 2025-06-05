@@ -13,4 +13,18 @@ We present HTSC-2025, an open-source benchmark of ambient-pressure high-Tc super
 | Others             | 7.9        | MgB2                | P63/mmc       | 39.0       | 53     |
 | **Total**          | **27.3**   | **Mg2IrH6**         | **Fm-3m**     | **160**    | **140** |
 
+### Citation
+
+If you use the HTSC-2025 dataset in your research, please cite our work:
+
+```bibtex
+@misc{han2025htsc2025benchmarkdatasetambientpressure,
+  title={HTSC-2025: A Benchmark Dataset of Ambient-Pressure High-Temperature Superconductors for AI-Driven Critical Temperature Prediction}, 
+  author={Xiao-Qi Han and Ze-Feng Gao and Xin-De Wang and Zhenfeng Ouyang and Peng-Jie Guo and Zhong-Yi Lu},
+  year={2025},
+  eprint={2506.03837},
+  archivePrefix={arXiv},
+  primaryClass={cond-mat.supr-con},
+  url={https://arxiv.org/abs/2506.03837}, 
+}
 
