@@ -13,6 +13,9 @@ We present HTSC-2025, an open-source benchmark of ambient-pressure high-Tc super
 | Others             | 7.9        | MgB2                | P63/mmc       | 39.0       | 53     |
 | **Total**          | **27.3**   | **Mg2IrH6**         | **Fm-3m**     | **160**    | **140** |
 
+We were invited by Hugging Face to share our work on their platform. The paper is now available on the Hugging Face Papers website: [https://huggingface.co/papers/2506.03837](https://huggingface.co/papers/2506.03837).
+Additionally, the **HTSC-2025** benchmark dataset can be conveniently accessed via the Hugging Face Datasets Hub: [https://huggingface.co/datasets/xiao-qi/HTSC-2025](https://huggingface.co/datasets/xiao-qi/HTSC-2025).
+
 ### Citation
 
 If you use the HTSC-2025 dataset in your research, please cite our work:
