@@ -1,6 +1,8 @@
 # HTSC-2025
 We present HTSC-2025, an open-source benchmark of ambient-pressure high-Tc superconductors predicted from 2023–2025, designed to standardize AI evaluation and accelerate physics-informed superconductor discovery.
 
+<pre><code>```python # You need to install Hugging Face (HF) to run the code below. from datasets import load_dataset ds = load_dataset("xiao-qi/HTSC-2025") ```</code></pre>
+
 ### Crystalline materials included in the HTSC-2025 benchmark
 
 | Material Class     | Avg Tc (K) | Max Tc Formula     | Space Group  | Max Tc (K) | Count |
